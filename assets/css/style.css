@@ -169,6 +169,9 @@ body.active { overflow: hidden; }
 .container { padding-inline: 16px; }
 
 .w-100 {
+  width: 100%;
+}
+.w-101 {
   width: 80%;
 }
 
