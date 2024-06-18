@@ -324,7 +324,11 @@ body.active { overflow: hidden; }
   justify-content: space-between;
   align-items: center;
 }
-
+#home
+{
+  background-image: linear-gradient(120deg, rgba(0, 0, 0, 0.5), rgba(83, 83, 83, 0.5)), url('https://gefesteel.ru/image/cache/catalog/1-850x500.jpg');
+  background-size: cover;
+}
 .nav-open-btn .span {
   width: 25px;
   height: 2px;
